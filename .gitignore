@@ -404,4 +404,9 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+# Extra stuff I did during the 
+postman/
+.postman/
+Submissions/
+CommBank-Server/Secrets.json
 
